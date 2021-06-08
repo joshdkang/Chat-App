@@ -9,8 +9,8 @@ Simple chat application written with Node.js using Socket.IO library.
 ## Installation
 
 * Clone repository
-* Run "npm install" to install dependencies
-* Start application with "npm start" and access it at localhost:3000
+* Run ```npm install``` to install dependencies
+* Start application with ```npm start``` and access it at localhost:3000
 
 ## Technologies Used
 
